@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Binaries
 DerivedDataCache
 Intermediate
@@ -91,4 +90,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
->>>>>>> 40b7a5f31e8c497232d15477f21bf45f1be2ce5f
