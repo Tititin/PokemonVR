@@ -1,2 +1,2 @@
-# PokemonVR
-A fan-made version of Pokémon, made in VR !
+# EscapeVR
+EscapeVR est un game engine pour développer vos propres niveaux d'Escape Games en réalité virtuelle
